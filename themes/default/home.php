@@ -73,7 +73,7 @@
 
 
 				<?php $this->load->view('common/sidebar_ad');?>
-				 <div class="panel panel-default">
+				  <div class="panel panel-default">
 				    <div class="panel-heading">
 				        <h3 class="panel-title">友情链接</h3>
 				    </div>
@@ -94,6 +94,7 @@
 				        </ul>
 				    </div>
 				</div>
+
 			</div><!-- /.col-md-4 -->
 
         </div><!-- /.row -->
